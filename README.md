@@ -3,13 +3,13 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-FF4B4B)](https://streamlit.io/)
 [![ML](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)](https://xgboost.ai/)
-
+![Streamlit App Screenshot](images/insurance_app_1.png)
 > An intelligent, production-ready **machine learning** system that predicts insurance premiums with 98% accuracy using age-segmented modeling and advanced feature engineering.
 
 ---
 
 ## 🎯 Project Highlights
-
+![Streamlit App Screenshot](images/insurance_app_2.png)
 - **High Accuracy**: Achieved ~2% error rate (MAE/RMSE) through strategic customer segmentation
 - **Intelligent Segmentation**: Age-based modeling ensures fair and precise predictions for different risk profiles
 - **Production-Ready**: Complete ML pipeline from data ingestion to deployment
