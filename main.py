@@ -7,9 +7,7 @@ def load_image(image_path):
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-img = load_image(
-    r"C:\Users\91994\codebasics_machine_learning\Healthcare_Premium_Prediction\Healthcare_Premium_Prediction_App\Insurance_image.jpg"
-)
+img = load_image("https://github.com/neema-rose/insurance-cost-prediction-app/blob/main/Insurance_image.jpg")
 
 # ---------------- CUSTOM CSS ----------------
 st.markdown("""
@@ -146,3 +144,4 @@ if st.button('Predict'):
 
 
     
+
