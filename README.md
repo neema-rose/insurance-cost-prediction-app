@@ -1,4 +1,4 @@
-# 🏥 Health Insurance Cost Predictor System
+# 🏥 Health Insurance Premium Prediction System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-FF4B4B)](https://streamlit.io/)
